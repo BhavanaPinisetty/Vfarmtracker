@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Vfarmtracker</description>
+        <device_type>browser</device_type>
+        <hint>Vfarmtracker</hint>
+        <name/>
+        <order/>
+        <roles>admin,action_category_creator,activity_admin,agent_security_admin,action_designer</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 04:28:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c98c5d0fc353521084495fedd4013187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vfarmtracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vfarmtracker" source="x_1609782_vfarmtra">8b2c1d8fc353521084495fedd4013108</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vfarmtracker">8b2c1d8fc353521084495fedd4013108</sys_scope>
+        <sys_update_name>sys_app_application_c98c5d0fc353521084495fedd4013187</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 04:28:53</sys_updated_on>
+        <title>Vfarmtracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
